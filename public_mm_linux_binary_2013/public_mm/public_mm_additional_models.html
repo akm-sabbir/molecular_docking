@@ -1,0 +1,221 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Using Additional Datasets with Public MetaMap</title>
+	<meta name="author" content="Willie Rogers">
+	<meta name="GENERATOR" content = "Almost Free Text v5.098; Copyright 1996-2010 Todd Coram.">
+<style type="text/css">
+  <!--
+	.section5 { padding-left: 50pt; }
+	.section6 { padding-left: 75pt; }
+	.section7 { padding-left: 100pt; }
+html { background: #eee; color: #000; }
+
+body { background: #eee; color: #000; margin: 0; padding: 0;}
+
+div.body {
+	background: #fff; color: #000;
+	margin: 0 1em 0 1em; padding: 1em;
+	font-family: serif;
+	font-size: 1em; line-height: 1.2em;
+	border-width: 0 1px 0 1px;
+	border-style: solid;
+	border-color: #aaa;
+}
+
+div.block {
+	background: #F8F8FF; color: #000;
+	margin: 1em; padding: 0 1em 0 1em;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #909090;
+}
+
+table {
+	background: #F8F8F8; color: #000;
+	margin: 1em;
+	border-width: 0 0 0 1px;
+	border-style: solid;
+	border-color: #C0C0C0;
+}
+
+td {
+	border-width: 0 1px 1px 0;
+	border-style: solid;
+	border-color: #C0C0C0;
+}
+
+th {
+	background: #F8F8FF;
+	border-width: 1px 1px 2px 0;
+	border-style: solid;
+	border-color: #C0C0C0;
+}
+
+
+/* body text, headings, and rules */
+
+p { margin: 0; text-indent: 0em; margin: 0 0 0.5em 0 }
+
+h1, h2, h3, h4, h5, h6 {
+	color: #206020; background: transparent;
+	font-family: Optima, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+/*
+h1 { font-size: 1.69em; margin: 1.4em 0 0.4em 0; }
+h2 { font-size: 1.44em; margin: 1.4em 0 0.4em 0; }
+h3 { font-size: 1.21em; margin: 1.4em 0 0.4em 0; }
+h4 { font-size: 1.00em; margin: 1.4em 0 0.4em 0; }
+h5 { font-size: 0.81em; margin: 1.4em 0 0.4em 0; }
+h6 { font-size: 0.64em; margin: 1.4em 0 0.4em 0; }
+*/
+
+hr {
+	color: transparent; background: transparent;
+	height: 0px; margin: 0.6em 0;
+	border-width: 1px ;
+	border-style: solid;
+	border-color: #999;
+}
+
+/* bulleted lists and definition lists */
+
+ul { margin: 0 1em 0.6em 2em; padding: 0; }
+li { margin: 0.4em 0 0 0; }
+
+dl { margin: 0.6em 1em 0.6em 2em; }
+dt { color: #206020; }
+
+tt { color: #602020; }
+
+/* links */
+
+a.link {
+	color: #33c; background: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000; background: transparent;
+}
+
+body > a {
+	font-family: Optima, Arial, Helvetica, sans-serif;
+	font-size: 0.81em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #206020; background: transparent;
+	font-family: Optima, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+  -->
+</style>
+</head>
+<body>
+<div class="body">
+
+<br><center><h1><a name="AFT-top">Using Additional Datasets with Public MetaMap</a></h1></center>
+<br><center><h2>Willie Rogers</h2></center>
+<!-- Start SectLevel1 -->
+<h2><a name="Archives files necessary for using an additional dataset">Archives files necessary for using an additional dataset</a></h2>
+<p class="Body">
+For each supported UMLS release, MetaMap provides three data versions
+(Base, USAbase, and NLM), which are explained in Section 3 of MetaMap
+2011 Release Notes
+(<a class="link" href="http://metamap.nlm.nih.gov/MM_2011_ReleaseNotes.pdf">http://metamap.nlm.nih.gov/MM_2011_ReleaseNotes.pdf</a>). Each of these
+three versions is available in a both strict and relaxed versions
+<a class="link" href="#Note: Model Documentation">see Note on Model Documentation</a> at the
+end of this page.
+</p>
+<p class="Body">
+To use any model for a particular release you need two archive files:
+The base archive for the release and the archive file for the
+particular model you want to use .  If you wish to use more than one
+model you only need to download the base archive file once.
+</p>
+<p class="Body">
+If you wish to use the relaxed model for 2006 it is necessary to
+download the base archive file: <tt>public_mm_data_2006_base.bz2</tt> and
+the relaxed model archive: <tt>public_mm_data_2006_relaxed.bz2</tt>.
+</p>
+<!--End Section 1-->
+<h2><a name="Installing the datasets for additional models">Installing the datasets for additional models</a></h2>
+<p class="Body">
+After downloading the necessary archive files for additional dataset,
+first move to the directory containing the directory of the existing
+public_mm installation and then extract the additional dataset using
+bzip2 and tar.
+</p>
+<p class="Body">
+For example, to add the 2006 relaxed model to your MetaMap
+installation:
+</p>
+<div class="block"><pre>
+$ cd &lt;directory containing existing public_mm installation&gt;
+$ bzip2 -dc public_mm_data_2006_base.tar.bz2 | tar xf -
+$ bzip2 -dc public_mm_data_2006_relaxed.tar.bz2 | tar xf -
+</pre></div>
+<p class="Body">
+The 2006 datafiles should be installed now, to use the new dataset run
+metamap with the options
+<tt>-Z &lt;two digit year&gt; --&lt;model name&gt;_model</tt> in the current case the options 
+<tt>-Z 06 --relaxed_model</tt> will suffice:
+</p>
+<div class="block"><pre>
+$ cd public_mm
+$ echo &quot;lung cancer&quot; | ./bin/metamap08 -Z 06 --relaxed_model
+</pre></div>
+<p class="Body">
+The output should be similar to this:
+</p>
+<div class="block"><pre>
+MetaMap (2008)
+
+Control options:
+  mm_data_year=06
+  relaxed_model
+Berkeley DB databases (normal relaxed 06 model) are open.
+Static variants will come from table varsan.
+Accessing lexicon &lt;parent directory&gt;/public_mm/lexicon/data/lexiconStatic2008.
+Variant generation mode: static.
+Initializing tagger on localhost...
+
+Processing 00000000.tx.1: lung cancer
+
+Phrase: &quot;lung cancer&quot;
+Meta Candidates (10):
+  1000 Lung Cancer (Malignant neoplasm of lung) [Neoplastic Process]
+  1000 Lung Cancer (Carcinoma of lung) [Neoplastic Process]
+   861 Cancer (Malignant Neoplasms) [Neoplastic Process]
+   861 Lung [Body Part, Organ, or Organ Component]
+   861 Lung (Lung diseases) [Disease or Syndrome]
+   861 LUNG (Lung Problem) [Disease or Syndrome]
+   861 Cancer (Cancer Genus) [Invertebrate]
+   861 Lung (Entire lung) [Body Part, Organ, or Organ Component]
+   861 Cancer (Specialty Type - cancer) [Biomedical Occupation or Discipline]
+   768 Pneumonia [Disease or Syndrome]
+Meta Mapping (1000):
+  1000 Lung Cancer (Carcinoma of lung) [Neoplastic Process]
+Meta Mapping (1000):
+  1000 Lung Cancer (Malignant neoplasm of lung) [Neoplastic Process]
+$ 
+</pre></div>
+<!--End Section 1-->
+<h2><a name="Note: Model Documentation">Note: Model Documentation</a></h2>
+<p class="Body">
+For a description of the content of each model, see the paper: &quot;Filtering
+the UMLS Metathesaurus for MetaMap&quot; at the SKR website under &quot;Research
+Information&quot; (<a class="link" href="http://skr.nlm.nih.gov/papers/index.shtml">http://skr.nlm.nih.gov/papers/index.shtml</a>) .
+</p>
+<!--End Section 1-->
+<!-- End SectLevel1 -->
+<hr>
+<br>
+<p align="right"> <small>This document was generated using <a class="link" href="http://www.maplefish.com/todd/aft.html">AFT v5.098</a></small> </p>
+</body>
+</html>
+

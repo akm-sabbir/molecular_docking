@@ -1,0 +1,101 @@
+potential cardiac valvulopathy	cardiac valve disease
+cardiac hypertrophy	cardiac hypertrophy
+ in allergic responses	hypersensitivity
+ in plasma potassium and arrhythmia	arrhythmia
+sexual dysfunction	sexual dysfunction
+possible thymus atrophy	atrophy
+syncope	shock
+pupil dilation	mydriasis
+acne	acne
+hyperthermia	body temperature increased
+long qt syndrome	long qt syndrome
+memory impairment and poor concentration	memory impairment
+euphoria and dysphoria	euphoric mood
+water retention in body	fluid retention
+insomnia	insomnia
+flatulence	flatulence
+hallucinations	hallucination
+ in weight loss	weight decreased
+muscle relaxation	muscle relaxation
+ in muscle mass	muscle mass
+potential for arrhythmia	arrhythmia
+nausea	nausea
+abuse liability	drug abuse
+dyspepsia	dyspepsia
+dysphoria	dysphoria
+ in breast carcinoma	carcinoma breast
+dizziness	dizziness
+ in development of gallstones	cholelithiasis
+ in inflammation	inflammation
+abuse potential	drug abuse
+constipation	constipation
+respiratory depression	pulmonary function test decreased
+schizophrenia	schizophrenia
+pulmonary hypertension	pulmonary hypertension
+sleep apnoea	sleep apnoea syndrome
+oedema	oedema
+depression	depression
+osteoporosis	osteoporosis
+miosis	miosis
+confusion	confusional state
+neurotoxicity	neurotoxicity
+allergic responses of flare	hypersensitivity
+myocardial infarction	myocardial infarction
+ in aggression	aggression
+vasculitis and arteritis	arteritis
+hyperglycaemia	hyperglycaemia
+drowsiness	drowsiness
+paralysis	paralysis
+ in hostility	hostility
+insulin resistance	insulin resistance
+tremors	tremor
+hypothermia	body temperature decreased
+bronchoconstriction	bronchospasm
+anterograde amnesia	anterograde amnesia
+ataxia	ataxia
+tachycardia	tachycardia
+convulsion	convulsion
+blurred vision	vision blurred
+headaches	headache
+seizures	convulsion
+dry mouth	dry mouth
+gynecomastia	gynaecomastia
+potential memory impairments	memory impairment
+delirium and disoriented behaviour	delirium
+thrombocytopaenia	thrombocytopenia
+apnoea	apnoea
+impotence	erectile dysfunction
+emesis	vomiting
+muscle wasting	muscle atrophy
+mydriasis	mydriasis
+atrial fibrillation	atrial fibrillation
+orthostatic hypotension	orthostatic hypotension
+prolongation of qt interval of ecg	electrocardiogram qt interval
+orthostatic hypotension and 	orthostatic hypotension
+anxiety	anxiety
+seizure 	convulsion
+dyskinesia	dyskinesia
+hypertension	hypertension
+gastric and pulmonary bleeding	haemorrhage
+possible shortening of qt interval of ecg	electrocardiogram qt interval
+glaucoma	glaucoma
+nervousness 	tension
+ in salivation	salivation
+palpitations	palpitations
+teratogenicity	teratogenicity
+potential hearing impairment	hearing impaired
+immunosuppression	immunosuppression
+sleep disturbances	sleep disorder
+prolonged qrs interval of ecg	electrocardiogram qrs complex prolonged
+ischaemic stroke	ischaemic stroke
+ in prostate carcinoma	prostate carcinoma
+sedation and dysphoria	dysphoria
+peripheral vasodilation and skeletal muscle tremor	vasodilation procedure
+hyponatraemia	hyponatraemia
+psychosis 	psychotic disorder
+serotonin syndrome	serotonin syndrome
+electrolyte disturbances	electrolyte imbalance
+hypoglycaemia	hypoglycaemia
+ventricular arrhythmia	ventricular arrhythmia
+parkinsonism	parkinsonism
+dystonia	dystonia

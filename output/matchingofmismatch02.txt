@@ -1,0 +1,26 @@
+cerebral and coronary artery vasoconstriction||Coronary artery disease||8.33754030863||-1.0
+gastric emptying||Impaired gastric emptying||6.83925867081||-1.0
+gallbladder contraction||Gallbladder disorder||9.01812928915||-1.0
+in respiratory secretions||Wound secretion||5.84613084793||-1.0
+in weight loss||Loss of consciousness||3.5429649353||-1.0
+coronary vasodilation||Acute coronary syndrome||11.7484445572||-1.0
+in gastric acid secretion||Wound secretion||5.84613084793||-1.0
+negative chronotropy and inotropy||Paradoxical pressor response||3.02707648277||-1.0
+in upper gi transit||Abdominal pain upper||5.54833173752||-1.0
+in other serotonin||Other conjunctivitis||1.30376672745||-1.0
+in bp when combined with amines such as tyramine||Orthostatic dysregulation||1.16652572155||-1.0
+in insulin secretion||Wound secretion||5.84613084793||-1.0
+slowed cardiac conduction||Wave slowing||3.07374870777||-1.0
+in food intake||Food allergy||8.39206123352||-1.0
+t cell activation||Sickle cell anaemia||3.15007805824||-1.0
+transporters||Anterograde amnesia||3.45163846016||-1.0
+arousal||Disturbance in sexual arousal||11.8436470032||-1.0
+t cell inhibition||Sickle cell anaemia||3.15007805824||-1.0
+gregation and leukocyte activation||Polymorphonuclear leukocytosis||8.82661533356||-1.0
+in locomotion||Stereotypy||3.09392094612||-1.0
+parkinsonian symptoms||Heartburn||5.72078275681||-1.0
+osteoblast proliferation||Metaphyseal dysplasia||6.96096229553||-1.0
+smooth muscle contraction||Muscle contractions involuntary||6.30561304092||-1.0
+enzymes||Hepatic enzyme increased||3.82122373581||-1.0
+ddi potential||Catalepsy||3.9163506031||-1.0
+in cardiac conduction||Conduction disorder||3.88221526146||-1.0

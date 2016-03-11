@@ -1,0 +1,19 @@
+#!/bin/sh
+
+BASEDIR=/home/sabbir/gensimProject/workspace_1/molecular_docking/public_mm_linux_binary_2013/public_mm
+BINDIR=$BASEDIR/bin
+
+ARCHITECTURE=`uname`
+
+case $ARCHITECTURE in
+    Darwin*)
+	DYLD_LIBRARY_PATH=$BASEDIR/lib:${DYLD_LIBRARY_PATH}
+	export DYLD_LIBRARY_PATH
+	;;
+    *)
+	LD_LIBRARY_PATH=$BASEDIR/lib:${LD_LIBRARY_PATH}
+	export LD_LIBRARY_PATH
+	;;
+esac
+
+$BINDIR/metamap2013.TEMPLATE 13 $*

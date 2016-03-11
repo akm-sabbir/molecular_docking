@@ -1,0 +1,139 @@
+potential cardiac valvulopathy||cardiac valve disease||heart valve disease||c0018824
+cardiac hypertrophy||cardiac hypertrophy||cardiac hypertrophy||c1383860
+ in body weight||weight decreased||body weight||c0005910
+ in allergic responses||carotid sinus hypersensitivity||hypersensitivity||c0020517
+ in plasma potassium and arrhythmia||arrhythmia supraventricular||cardiac arrhythmia||c0003811
+aldosterone secretion||wound secretion||process of secretion||c0036536
+sexual dysfunction||sexual dysfunction||sexual dysfunction||c0549622
+possible thymus atrophy||atrophy||atrophic||c0333641
+syncope||syncope||syncope||c0039070
+pupil dilation||mydriasis||mydriasis||c0026961
+potential for stimulation of platelet aggregation||platelet aggregation abnormal||platelet aggregation||c0032176
+acne||exacerbation of acne||acne||c0702166
+ in noradrenaline release and sympathetic neurotransmission||bloody discharge||patient discharge||c0030685
+hyperthermia||febrile bone marrow aplasia||fever||c0015967
+long qt syndrome||long qt syndrome||long qt syndrome||c0023976
+memory impairment and poor concentration||memory impairment||memory impairment adverse event||c1963167
+euphoria and dysphoria||euphoric mood||euphoric mood||c0235146
+cardiac positive ionotropy||oedema due to cardiac disease||heart||c0018787
+ in locomotor activity||lactic dehydrogenase activity increased||physical activity||c0026606
+water retention in body||bronchial secretion retention||retention (psychology)||c0035280
+insomnia||insomnia||sleeplessness||c0917801
+flatulence||abdominal distension gaseous||flatulence||c0016204
+hallucinations||hallucination, tactile||hallucinations||c0018524
+muscle relaxation||muscle relaxation||muscle relaxation phase||c0026836
+ in muscle mass||muscle mass||form of muscle||c0240417
+potential for arrhythmia||arrhythmia supraventricular||cardiac arrhythmia||c0003811
+nausea||nausea alone||nausea||c0027497
+abuse liability||drug abuse||drug abuse||c0013146
+dyspepsia||dyspepsia aggravated||dyspepsia||c0013395
+reduced rem sleep||bone density decreased||reduced||c0392756
+dysphoria||dysphoria||dysphoric mood||c0233477
+ in breast carcinoma||advanced breast cancer||breast carcinoma||c0678222
+sedation||sedation||sedation||c0600097
+ in platelet aggregation and leukocyte activation||platelet aggregation abnormal||platelet aggregation||c0032176
+dizziness||dizziness postural||dizziness||c0012833
+ in development of gallstones||cholelithiasis||cholelithiasis||c0008350
+ in inflammation||vessel puncture site inflammation||inflammation||c0021368
+abuse potential||drug abuse||drug abuse||c0013146
+constipation||postoperative constipation||constipation||c0009806
+ in bone mass||bone density decreased||bone density||c0005938
+respiratory depression||respiratory depression||respiratory depression||c0235063
+ in smooth muscle tone||muscle tightness||muscle tonus||c0026841
+platelet aggregation||platelet aggregation abnormal||platelet aggregation||c0032176
+schizophrenia||schizophrenia||schizophrenia||c0036341
+sleep induction||abnormal sleep-related event||sleep||c0037313
+pulmonary hypertension||pulmonary hypertension||pulmonary hypertension||c0020542
+sleep apnoea||sleep apnoea syndrome||sleep apnea syndromes||c0037315
+oedema||muscle swelling||edema||c0013604
+depression||circulatory depression||mental depression||c0011570
+ in sodium excretion||sodium decreased||sodium||c0037473
+osteoporosis||osteoporosis||osteoporosis||c0029456
+miosis||miosis||miosis disorder||c0026205
+androgenicity in females||genital itching female||female||c0015780
+ in cardiac action potential duration||oedema due to cardiac disease||heart||c0018787
+confusion||temporal disorientation||confusion||c0009676
+ in spermatogenesis||spermatogenesis abnormal||spermatogenesis||c0037864
+neurotoxicity||neurotoxicity||neurotoxicity syndromes||c0235032
+allergic responses of flare||carotid sinus hypersensitivity||hypersensitivity||c0020517
+myocardial infarction||myocardial necrosis||myocardial infarction||c0027051
+ in aggression||aggression||aggressive behavior||c0001807
+vasculitis and arteritis||arteritis||arteritis||c0003860
+hyperglycaemia||fasting hyperglycaemia||hyperglycemia||c0020456
+drowsiness||somnolence||drowsiness||c0013144
+pupil constriction||miosis||pupil constriction||c0700310
+pancreatic enzyme secretion||wound secretion||process of secretion||c0036536
+paralysis||peripheral nerve palsy||paralysed||c0522224
+ in hostility||hostility||hostility||c0020039
+insulin resistance||insulin resistance||insulin resistance||c0021655
+ in body temperature||body temperature altered||body temperature||c0005903
+tremors||tremor||tremor||c0040822
+cortisol and growth hormone secretion||blood cortisol decreased||hydrocortisone||c0020268
+hypothermia||hypothermia||hypothermia, natural||c0020672
+bronchoconstriction||bronchoconstriction||bronchoconstriction||c0079043
+anterograde amnesia||anterograde amnesia||amnesia, anterograde||c0233795
+possible cardiac effects||oedema due to cardiac disease||heart||c0018787
+ataxia||ataxia||ataxia||c0004134
+tachycardia||wide complex tachycardia||tachycardia||c0039231
+convulsion||convulsions generalised||convulsions||c0009951
+blurred vision||vision blurred||blurred vision||c0344232
+headaches||headache occurring||headache||c0018681
+seizures||convulsion||seizures||c0036572
+dry mouth||dry mouth||xerostomia||c0043352
+gynecomastia||gynaecomastia||gynecomastia||c0018418
+potential memory impairments||memory impairment||memory impairment adverse event||c1963167
+delirium and disoriented behaviour||delirium||delirium||c0011206
+thrombocytopaenia||thrombocytopenia aggravated||thrombocytopenia||c0040034
+apnoea||apnoea||apnea||c0003578
+vascular relaxation||vessel puncture site inflammation||blood vessels||c0005847
+ in bp and reflex||reflexes abnormal||reflex action||c0034929
+impact on various aspects of sexual function||toxicity to various agents||various patch test substance||c0440102
+ in insulin release||insulin c-peptide decreased||insulin||c0021641
+reflex||reflexes abnormal||reflex action||c0034929
+impotence||erectile dysfunction||erectile dysfunction||c0242350
+emesis||vomiting||vomiting||c0042963
+muscle wasting||muscle atrophy||muscular atrophy||c0026846
+mydriasis||mydriasis||mydriasis||c0026961
+atrial fibrillation||atrial fibrillation||atrial fibrillation||c0004238
+orthostatic hypotension||orthostatic hypotension||hypotension, orthostatic||c0020651
+prolongation of qt interval of ecg||electrocardiogram qt interval||electrocardiogram||c0013798
+ in plasma renin||volume plasma increased||plasma||c0032105
+orthostatic hypotension and ||orthostatic hypotension||hypotension, orthostatic||c0020651
+anxiety||anxiety||anxiety||c0003467
+cardiovascular effects||cardiovascular insufficiency||cardiovascular system||c0007226
+psychomimetic effects||proarrhythmic effect||effect||c1280500
+seizure ||convulsion||seizures||c0036572
+dyskinesia||dyskinesia||dyskinetic syndrome||c0013384
+hypertension||vascular hypertensive disorders||hypertensive disease||c0020538
+gastric and pulmonary bleeding||stomach cramps||stomach||c0038351
+ in glycogenolysis and glucagon release||bloody discharge||patient discharge||c0030685
+possible shortening of qt interval of ecg||electrocardiogram qt interval||electrocardiogram||c0013798
+glaucoma||glaucoma both eyes||glaucoma||c0017601
+renal dysfunction||renal graft loss||kidney||c0022646
+ in urinary output||urine output||urine volume function||c0232856
+nervousness ||feeling jittery||nervousness||c0027769
+ in salivation||salivation||secretion of saliva||c0036104
+palpitations||palpitations||palpitations||c0030252
+ in renin release||bloody discharge||patient discharge||c0030685
+teratogenicity||teratogenicity||teratogenesis||c0232910
+potential hearing impairment||hearing impaired||hearing impairment||c1384666
+immunosuppression||immunosuppression||therapeutic immunosuppression||c0021079
+sleep disturbances||parasomnia||sleep disorders||c0851578
+ in pituitary hormone secretions||wound secretion||bodily secretions||c0036537
+prolonged qrs interval of ecg||electrocardiogram qt interval||electrocardiogram||c0013798
+anticonvulsant||foetal anticonvulsant syndrome||anticonvulsants||c0003286
+gi and urinary smooth muscle constriction||bladder constriction||stenosis||c1261287
+ischaemic stroke||ischaemic stroke||ischemic stroke||c0948008
+ in prostate carcinoma||prostate carcinoma||prostate carcinoma||c0600139
+sedation and dysphoria||dysphoria||dysphoric mood||c0233477
+peripheral vasodilation and skeletal muscle tremor||vasodilatation||vasodilation||c0042401
+hyponatraemia||hyponatraemia||hyponatremia||c0020625
+activation of dopamine||activation syndrome||activation action||c1879547
+psychosis ||psychosis depressive||psychotic disorders||c0033975
+serotonin syndrome||serotonin syndrome||malignant carcinoid syndrome||c0024586
+electrolyte disturbances||electrolyte imbalance||electrolyte imbalance||c0342579
+hypoglycaemia||hypoglycaemia||hypoglycemia||c0020615
+ventricular arrhythmia||ventricular arrhythmia||ventricular arrhythmia adverse event||c1883529
+parkinsonism||parkinsonism||parkinsonian disorders||c0242422
+dystonia||oromandibular dystonia||dystonia||c0013421
+relaxation of colon and oesophagus||colonic abscess||colon structure (body structure)||c0009368

@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+        <head>
+        
+           
+           
+                <link type="text/css" rel="stylesheet" href="css/cas.css;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6" />
+                <link type="text/css" rel="stylesheet" href="css/header.css;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6" />
+                <link type="text/css" rel="stylesheet" href="css/uts.css;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6" />
+           
+        
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.5/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/cas/js/cas.js;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6"></script>
+            <link rel="icon" href="/cas/favicon.ico;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6" type="image/x-icon" />
+        <title>UMLS Terminology Services Login Page</title>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        </head>
+        <body id="cas"  class="fl-theme-iphone"> 
+               <!-- banner starts here -->
+
+        <div class="banner">
+
+            <div class="left">
+                <div class="left_top top">
+                    &nbsp;
+                </div>
+                <div class="left_bottom">
+                    <div class="logo">
+                        <a href="http://uts.nlm.nih.gov"><img src="images/umls_tree_sm.jpg" height="86" border="0" alt="UTS Logo"></a>
+                        <span class="umlsTitle orange">Unified Medical Language System <sup>&reg;</sup></span>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="middle">
+                <div class="middle_top top">
+                    <div class="hhscontainer">
+                        A service of the
+                        <a class="hhs" href="http://www.nlm.nih.gov" target="_blank">U.S. National Library of Medicine</a> |
+                        <a class="hhs" href="http://www.nih.gov" target="_blank">National Institutes of Health</a>
+                    </div>
+                </div>
+                <div class="middle_bottom bottom">
+                    <span class="utsTitle utsgreen">UMLS Terminology Services</span>
+                    <br>
+                </div>
+            </div>
+
+            <div class="right">
+                <div class="right_top top">
+                    <div class="metalinks"></div>
+                </div>
+                <div class="right_bottom bottom"></div>
+            </div>
+
+            <div class="bannerBottom">
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            </div>
+
+        </div>
+
+        <!-- banner ends here -->
+<!-- banner ends here -->  
+
+    <div class="flc-screenNavigator-view-container">
+        <div class="fl-screenNavigator-view">
+          <!--  <div id="header" class="flc-screenNavigator-navbar fl-navbar fl-table">
+                <h1 id="app-name" class="fl-table-cell">UMLS Terminology Services</h1>
+            </div>              -->
+            <div id="content" class="fl-screenNavigator-scroll-container">
+
+			<form id="fm1" class="fm-v clearfix" action="/cas/login;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2" method="post" onsubmit="return prepareSubmit(this);">
+			    
+                <div class="uts_login">
+                <!-- Congratulations on bringing CAS online!  The default authentication handler authenticates where usernames equal passwords: go ahead, try it out.  -->
+                    <div class="uts_login_header">Sign In</div>
+                    <div class="row">
+                        <label for="username" class="uts_login_label"><span class="accesskey">U</span>sername:</label>
+						
+						
+						
+						
+						<input id="username" name="username" class="required" tabindex="1" accesskey="n" type="text" value="" size="25" autocomplete="false"/>
+						
+                    </div>
+                    <div class="row">
+                        <label for="password" class="uts_login_label"><span class="accesskey">P</span>assword:</label>
+						
+						
+						<input id="password" name="password" class="required" tabindex="2" accesskey="p" type="password" value="" size="25" autocomplete="off"/>
+                    </div>
+<!--
+                    <div class="row check">
+                        <input id="warn" name="warn" value="true" tabindex="3" accesskey="w" type="checkbox" />
+                        <label for="warn"><span class="accesskey">W</span>arn me before logging me into other sites.</label>
+                    </div>
+-->
+                    <div class="row btn-row">
+						<input type="hidden" name="lt" value="e1s1" />
+						<input type="hidden" name="_eventId" value="submit" />
+
+                        <input class="btn-submit" name="submit" accesskey="l" value="Sign In" tabindex="4" type="submit" />
+<!--
+                        <input class="btn-reset" name="reset" accesskey="c" value="CLEAR" tabindex="5" type="reset" />
+-->
+                    </div>
+
+                    <div class="row">
+                        <div class="uts_login_label">
+                            Don't have a UMLS license/account?
+                            &nbsp;
+                            <a href="https://uts.nlm.nih.gov:443//license.html">Request one now</a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="uts_login_label">
+                            <a href="https://uts.nlm.nih.gov:443/license.html#emailUsername">Forgot Username?</a>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="uts_login_label">
+                            <a href="https://uts.nlm.nih.gov:443/license.html#emailTemporaryPassword">Forgot Password?</a>
+                        </div>
+                    </div>
+
+                </div>
+               
+<!--
+	            <div id="sidebar">
+	                <p>For security reasons, please Log Out and Exit your web browser when you are done accessing services that require authentication!</p>
+	                <div id="list-languages">
+	                
+						
+						
+	                    <h3>Languages:</h3>
+						<ul
+							><li class="first"><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=en">English</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=es">Spanish</a></li				
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=fr">French</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=ru">Russian</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=nl">Nederlands</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=sv">Svenskt</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=it">Italiano</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=ur">Urdu</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=zh_CN">Chinese (Simplified)</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=de">Deutsch</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=ja">Japanese</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=hr">Croatian</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=cs">Czech</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=sl">Slovenian</a></li
+							><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=pl">Polish</a></li
+                            ><li><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=pt_BR">Portuguese (Brazil)</a></li
+							><li class="last"><a href="login?service=https%3a%2f%2fmetamap.nlm.nih.gov%2fdownload%2fpublic_mm_linux_binary_2014.tar.bz2&locale=tr">Turkish</a></li
+						></ul>
+	                </div>
+	            </div>
+        	</form>
+
+                </div>
+                <div id="footer" class="fl-panel fl-note fl-bevel-white fl-font-size-80">
+                    <div>
+                        <p>Copyright &copy; 2005 - 2010 Jasig, Inc. All rights reserved.</p>
+                        <p>Powered by <a href="http://www.jasig.org/cas">Jasig Central Authentication Service 3.4.3.1</a></p>
+                    </div>
+                    <a href="http://www.jasig.org" title="go to Jasig home page"><img alt="Jasig logo" id="logo" src="/cas/images/ja-sig-logo.gif;jsessionid=7A429D01A4DCA1C9481E0E221FB0BFF6" width="118" height="31" alt="JA-SIG" title="go to Jasig home page" /></a>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+-->

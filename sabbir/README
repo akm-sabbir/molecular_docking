@@ -1,0 +1,3 @@
+ADRs.unique.txt	- a list of the side effects associated with the proteins in the minimal toxicity screen
+drugs.txt - a list of the drug file names I used in docking and the FDA-approved drug names associated with them
+sorted_results - docking results using dockingdb drugs and lck, results are already sorted by best ranking

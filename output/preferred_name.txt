@@ -1,0 +1,437 @@
+anxiolysis	5.18	Induction of minimal sedation (procedure)	C1961138
+anxiolysis	5.18	anxiolysis (emotion)	C0679110
+potential cardiac valvulopathy	10.06	Heart valve disease	C0018824
+potential cardiac valvulopathy	3.48	Potential	C3245505
+ in prostate carcinoma	5.18	Prostate carcinoma	C0600139
+ in pr interval	5.18	Electrocardiogram: P-R interval	C0429087
+ in pr interval	5.18	PR interval feature	C0520877
+ in pr interval	5.18	PR interval:Time:Point in time:Heart:Quantitative:EKG	C0488345
+cardiac hypertrophy	14.64	Cardiac Hypertrophy	C1383860
+gastric emptying	17.80	Gastric Emptying	C0017127
+gallbladder contraction	5.18	Gallbladder contraction	C0232772
+aldosterone secretion	19.45	Process of secretion	C0036536
+aldosterone secretion	19.27	Aldosterone	C0002006
+aldosterone secretion	6.83	Bodily secretions	C0036537
+antidepressant	20.95	Antidepressive Agents	C0003289
+psychosis 	11.49	Psychotic Disorders	C0033975
+muscle relaxation	17.80	Muscle relaxation phase	C0026836
+muscle relaxation	5.18	Observation of Neuromuscular Block	C0700323
+sexual dysfunction	5.18	Sexual Dysfunction	C0549622
+sexual dysfunction	5.18	organic sexual dysfunction	C0036877
+hyperglycaemia	14.64	Hyperglycemia	C0020456
+syncope	24.11	Syncope	C0039070
+pupil dilation	11.49	Mydriasis	C0026961
+potential for stimulation of platelet aggregation	19.22	Platelet aggregation	C0032176
+potential for stimulation of platelet aggregation	3.55	Potential	C3245505
+potential for stimulation of platelet aggregation	3.45	Platelet aggregation test result	C0677599
+potential for stimulation of platelet aggregation	3.43	Stimulation (motivation)	C1948023
+potential for stimulation of platelet aggregation	3.43	Stimulation procedure	C1292856
+ in insulin secretion	5.18	insulin secretion	C1256369
+acne	17.80	Acne	C0702166
+acne	17.80	Acne Vulgaris	C0001144
+possible cardiac effects	6.63	Heart	C0018787
+possible cardiac effects	3.63	Effect	C1280500
+possible cardiac effects	3.48	Cardiac - anatomy qualifier	C1522601
+possible cardiac effects	3.48	Possible	C0332149
+possible cardiac effects	3.48	Possible diagnosis	C2362652
+possible cardiac effects	3.48	Possibly Related to Intervention	C1705910
+hyperthermia	14.64	Fever	C0015967
+hyperthermia	14.64	Hyperthermia	C1704628
+long qt syndrome	17.80	Long QT Syndrome	C0023976
+ in other serotonin	19.45	Serotonin	C0036751
+ in other serotonin	3.68	Serotonin measurement	C0202217
+ in other serotonin	3.50	Other	C0205394
+memory impairment and poor concentration	5.18	Memory Impairment Adverse Event	C1963167
+memory impairment and poor concentration	5.18	Memory impairment	C0233794
+memory impairment and poor concentration	5.18	Poor concentration	C0233417
+ in pituitary hormone secretions	13.00	Pituitary Hormones	C0032015
+ in pituitary hormone secretions	6.79	Bodily secretions	C0036537
+ in insulin release	22.61	Insulin	C0021641
+ in insulin release	16.30	Insulin [EPC]	C1579433
+ in insulin release	16.30	Patient Discharge	C0030685
+ in insulin release	3.68	% release (qualifier value)	C0439180
+ in insulin release	3.68	Discharge (release)	C0680255
+ in insulin release	3.68	Recombinant Insulin	C1533581
+ in insulin release	3.68	Release (procedure)	C1963578
+ in insulin release	3.68	Release - action (qualifier value)	C1283071
+ in insulin release	3.68	Released (action)	C0391871
+lipolysis	14.64	Lipolysis	C0023796
+euphoria and dysphoria	11.49	Euphoric mood	C0235146
+euphoria and dysphoria	5.18	Dysphoric mood	C0233477
+euphoria and dysphoria	5.18	Euphoria Adverse Event	C1963107
+cardiac positive ionotropy	6.63	Heart	C0018787
+cardiac positive ionotropy	3.48	Cardiac - anatomy qualifier	C1522601
+cardiac positive ionotropy	3.48	Positive	C1446409
+cardiac positive ionotropy	3.48	Positive Charge	C2825490
+cardiac positive ionotropy	3.48	Positive Finding	C1514241
+cardiac positive ionotropy	3.48	percent positive cells	C0439178
+drowsiness	17.80	Drowsiness	C0013144
+drowsiness	5.18	Somnolence	C2830004
+insomnia	17.80	Sleeplessness	C0917801
+insomnia	5.18	Insomnia Adverse Event	C1963237
+flatulence	14.64	Flatulence	C0016204
+flatulence	5.18	Flatulence Adverse Event	C1962956
+possible 	5.18	Possible	C0332149
+possible 	5.18	Possible diagnosis	C2362652
+possible 	5.18	Possibly Related to Intervention	C1705910
+ in gi motility	3.68	Motility	C1510470
+ in gi motility	3.68	Motility result	C0678835
+ in gi motility	3.68	cell motility	C0007608
+hallucinations	20.95	Hallucinations	C0018524
+ in cardiac action potential duration	13.14	Action Potentials	C0001272
+ in cardiac action potential duration	6.62	Heart	C0018787
+ in cardiac action potential duration	3.61	Duration	C2926735
+ in cardiac action potential duration	3.61	Duration (temporal concept)	C0449238
+ in cardiac action potential duration	3.47	Cardiac - anatomy qualifier	C1522601
+ in platelet aggregation and leukocyte activation	20.95	Platelet aggregation	C0032176
+ in platelet aggregation and leukocyte activation	5.18	Immune Cell Activation Process	C1155000
+ in platelet aggregation and leukocyte activation	5.18	Platelet aggregation test result	C0677599
+potential for arrhythmia	9.76	Cardiac Arrhythmia	C0003811
+potential for arrhythmia	3.59	Potential	C3245505
+nausea	14.64	Nausea	C0027497
+nausea	5.18	Nausea Adverse Event	C1963179
+allergic responses of flare	6.77	Hypersensitivity	C0020517
+allergic responses of flare	3.44	Flare	C1517205
+abuse liability	3.56	S-linalool synthase activity	C2247545
+abuse liability	3.50	Abuse	C1328247
+abuse liability	3.50	Drug abuse	C0013146
+abuse liability	3.50	Victim of abuse finding	C0562381
+dyspepsia	14.64	Dyspepsia	C0013395
+coronary vasodilation	3.90	Coronary vasodilator	C0596385
+reduced rem sleep	19.52	Sleep, REM	C0037322
+reduced rem sleep	3.48	Reduced	C0392756
+dysphoria	5.18	Dysphoric mood	C0233477
+negative chronotropy and inotropy	13.21	Inotropism	C1258199
+negative chronotropy and inotropy	5.18	Negative Chronotropy [PE]	C1372752
+sedation	5.18	Sedation	C0600097
+sedation	5.18	Sedation procedure	C0344106
+water retention in body	16.18	Retention (Psychology)	C0035280
+water retention in body	16.05	Human body	C0242821
+water retention in body	9.78	Body water (substance)	C0005909
+water retention in body	3.64	Water retention (finding)	C0542203
+water retention in body	3.64	Water retention (function)	C2584327
+water retention in body	3.57	Retention of content	C0333117
+water retention in body	3.57	cellular entity retention	C1753315
+water retention in body	3.44	Body structure	C1268086
+water retention in body	3.44	Human body structure	C0460148
+ in locomotion	17.80	Locomotion	C0023946
+abuse potential	5.18	Abuse	C1328247
+abuse potential	5.18	Drug abuse	C0013146
+abuse potential	5.18	Potential	C3245505
+abuse potential	5.18	Victim of abuse finding	C0562381
+constipation	14.64	Constipation	C0009806
+constipation	5.18	Constipation Adverse Event	C1963087
+bronchodilation	5.18	Bronchodilation [PE]	C1371299
+ in urinary output	5.18	Urine volume function	C0232856
+parkinsonian symptoms 	5.18	Parkinsonian symptoms	C1847652
+platelet aggregation	20.95	Platelet aggregation	C0032176
+platelet aggregation	5.18	Platelet aggregation test result	C0677599
+schizophrenia	11.49	Schizophrenia	C0036341
+ in cardiac conduction 	5.18	Cardiac conduction	C0232217
+pulmonary hypertension	11.49	Pulmonary Hypertension	C0020542
+pulmonary hypertension	5.18	Pulmonary Hypertension Adverse Event	C1963220
+nervousness 	11.49	Nervousness	C0027769
+liver complications	4.02	hepatic complications	C1832055
+sleep apnoea	17.80	Sleep Apnea Syndromes	C0037315
+oedema	11.49	Edema	C0013604
+oedema	5.18	Edema:Finding:Point in time:^Patient:Ordinal	C1717255
+depression	14.64	Mental Depression	C0011570
+depression	11.49	Depressive disorder	C0011581
+depression	5.18	Depressed mood	C0344315
+depression	5.18	Depression motion	C0460137
+ in inflammation	11.49	Inflammation	C0021368
+orthostatic hypotension and 	17.80	Hypotension, Orthostatic	C0020651
+suicidal intent	5.18	Suicidal intent	C0582496
+ in plasma renin	22.61	Chymosin	C0035100
+ in plasma renin	22.61	Renin	C0035094
+ in plasma renin	12.96	Plasma	C0032105
+ in plasma renin	3.68	REN gene	C1419338
+osteoporosis	14.64	Osteoporosis	C0029456
+ in hostility	11.49	Hostility	C0020039
+miosis	17.80	Miosis disorder	C0026205
+miosis	5.18	Pupil constriction	C0700310
+miosis	5.18	Pupil constriction observed	C0728710
+androgenicity in females	19.27	Androgens	C0002844
+androgenicity in females	9.76	Female	C0015780
+androgenicity in females	9.76	Females	C0086287
+sleep disturbances	14.64	Sleep Disorders	C0851578
+sleep disturbances	5.18	Sleep disturbances	C0037317
+confusion	17.80	Confusion	C0009676
+confusion	5.18	Confusion Adverse Event	C1963086
+ in breast carcinoma	3.75	Breast Carcinoma	C0678222
+ in breast carcinoma	3.48	Present	C0150312
+ in breast carcinoma	3.48	Within	C0332285
+ in allergic responses	7.27	Hypersensitivity	C0020517
+neurotoxicity	11.49	Neurotoxicity Syndromes	C0235032
+ in locomotor activity	17.80	Physical activity	C0026606
+pupil constriction	5.18	Pupil constriction	C0700310
+pupil constriction	5.18	Pupil constriction observed	C0728710
+tremors	17.80	Tremor	C0040822
+ in bone mass	11.49	Bone Density	C0005938
+ in bone mass	5.18	Bone Mineral Density Test	C0177804
+vasculitis and arteritis	14.64	Arteritis	C0003860
+vasculitis and arteritis	11.49	Vasculitis	C0042384
+vasculitis and arteritis	5.18	Vasculitis Adverse Event	C1963274
+dizziness	17.80	Dizziness	C0012833
+dizziness	17.80	Vertigo	C0042571
+dizziness	5.18	Dizziness Adverse Event	C1963093
+possible thymus atrophy	25.56	Thymus <angiosperm>	C1015036
+possible thymus atrophy	16.09	Thymus Gland	C0040113
+possible thymus atrophy	9.94	Atrophic	C0333641
+possible thymus atrophy	9.78	Thymus Extracts	C0040112
+possible thymus atrophy	3.48	Possible	C0332149
+possible thymus atrophy	3.48	Possible diagnosis	C2362652
+possible thymus atrophy	3.48	Possibly Related to Intervention	C1705910
+ in body temperature	17.80	Body Temperature	C0005903
+pancreatic enzyme secretion	19.40	Process of secretion	C0036536
+pancreatic enzyme secretion	10.09	pancreatic juice	C0030296
+pancreatic enzyme secretion	6.79	Bodily secretions	C0036537
+pancreatic enzyme secretion	6.63	Enzymes	C0014442
+pancreatic enzyme secretion	3.78	Pancreatic secretion function	C0232787
+pancreatic enzyme secretion	3.53	Pancreatic enzyme	C0920330
+paralysis	14.64	Paralysed	C0522224
+ in locomotor activity	17.80	Physical activity	C0026606
+myocardial fibrosis	5.18	MYOCARDIAL FIBROSIS	C0151654
+ in bp and reflex	17.80	Reflex action	C0034929
+ in bp and reflex	5.18	Observation of reflex	C0596002
+ in bp and reflex	5.18	Reflex motion descriptor	C0439840
+insulin resistance	17.80	Insulin Resistance	C0021655
+insulin resistance	5.18	INSULIN RESISTANCE (allelic variant)	C2700570
+ in food intake	14.64	Eating	C0013470
+ in renin release	22.61	Chymosin	C0035100
+ in renin release	22.61	Renin	C0035094
+ in renin release	16.30	Patient Discharge	C0030685
+ in renin release	3.68	% release (qualifier value)	C0439180
+ in renin release	3.68	Discharge (release)	C0680255
+ in renin release	3.68	REN gene	C1419338
+ in renin release	3.68	Release (procedure)	C1963578
+ in renin release	3.68	Release - action (qualifier value)	C1283071
+ in renin release	3.68	Released (action)	C0391871
+impact on various aspects of sexual function	3.55	IMPACT gene	C1825598
+impact on various aspects of sexual function	3.44	Sexual function	C0278092
+impact on various aspects of sexual function	3.42	Various patch test substance	C0440102
+impact on various aspects of sexual function	3.40	Aspect (characteristic)	C1879746
+impact on various aspects of sexual function	3.40	Aspect - Kind of quantity	C1547011
+possible shortening of qt interval of ecg	16.02	Electrocardiogram	C0013798
+possible shortening of qt interval of ecg	3.55	Surgical shortening - action	C0441636
+possible shortening of qt interval of ecg	3.44	QT interval feature (observable entity)	C0429028
+possible shortening of qt interval of ecg	3.44	QT interval:Time:Point in time:Heart:Quantitative:EKG	C0488414
+possible shortening of qt interval of ecg	3.42	Possible	C0332149
+possible shortening of qt interval of ecg	3.42	Possible diagnosis	C2362652
+possible shortening of qt interval of ecg	3.42	Possibly Related to Intervention	C1705910
+ in salivation	17.80	secretion of saliva	C0036104
+ in salivation	14.64	Sialorrhea	C0037036
+cortisol and growth hormone secretion	20.95	Hydrocortisone	C0020268
+cortisol and growth hormone secretion	5.18	growth hormone secretion	C1154417
+hypothermia	14.64	Hypothermia, natural	C0020672
+hypothermia	5.18	Actual Hypothermia	C2364050
+hypothermia	5.18	Hypothermia due to exposure	C0413252
+ in smooth muscle tone	10.06	Muscle Tonus	C0026841
+ in smooth muscle tone	3.75	Observation of tone of skeletal muscle	C0549465
+ in smooth muscle tone	3.48	Smooth	C0205357
+bronchoconstriction	20.95	Bronchoconstriction	C0079043
+anterograde amnesia	24.11	Amnesia, Anterograde	C0233795
+ataxia	17.80	Ataxia	C0004134
+convulsion	17.80	Convulsions	C0009951
+convulsion	17.80	Seizures	C0036572
+blurred vision	5.18	Blurred vision	C0344232
+headaches	17.80	Headache	C0018681
+seizures	17.80	Seizures	C0036572
+ in body weight	24.11	Body Weight	C0005910
+ in body weight	5.18	Weighing patient	C1305866
+prolonged qrs interval of ecg	16.03	Electrocardiogram	C0013798
+prolonged qrs interval of ecg	3.68	Wide QRS complex	C0235475
+potential memory impairments	3.72	Memory Impairment Adverse Event	C1963167
+potential memory impairments	3.72	Memory impairment	C0233794
+potential memory impairments	3.48	Potential	C3245505
+delirium and disoriented behaviour	20.95	Delirium	C0011206
+delirium and disoriented behaviour	16.12	Disorientation	C0233407
+delirium and disoriented behaviour	6.83	Behavior	C0004927
+delirium and disoriented behaviour	3.68	Behavior:-:Point in time:^Patient:-	C2707008
+delirium and disoriented behaviour	3.50	Ambulatory Status - Disoriented	C1546414
+slowed cardiac conduction	3.75	Cardiac conduction	C0232217
+slowed cardiac conduction	3.45	Slow	C0439834
+thrombocytopaenia	14.64	Thrombocytopenia	C0040034
+apnoea	14.64	Apnea	C0003578
+apnoea	5.18	Apnea Adverse Event	C1963065
+vascular relaxation	9.99	Relaxation	C0035028
+vascular relaxation	6.66	Blood Vessels	C0005847
+vascular relaxation	3.50	Adverse Event Associated with Vascular	C1558950
+vascular relaxation	3.50	Vascular	C1801960
+tachycardia	14.64	Tachycardia	C0039231
+ in aggression	14.64	Aggressive behavior	C0001807
+reflex	17.80	Reflex action	C0034929
+reflex	5.18	Observation of reflex	C0596002
+reflex	5.18	Reflex motion descriptor	C0439840
+dyskinesia	14.64	Dyskinetic syndrome	C0013384
+impotence	14.64	Erectile dysfunction	C0242350
+emesis	14.64	Vomiting	C0042963
+emesis	5.18	Emesis (Eukaryote)	C1060009
+emesis	5.18	Emesis [PE]	C2825053
+emesis	5.18	Vomitus - SpecimenType	C1608512
+ in upper gi transit	3.63	In transit	C1301827
+ in upper gi transit	3.53	Upper gastrointestinal tract series	C0203057
+ in spermatogenesis	20.95	Spermatogenesis	C0037864
+muscle wasting	17.80	Muscular Atrophy	C0026846
+mydriasis	11.49	Mydriasis	C0026961
+atrial fibrillation	14.64	Atrial Fibrillation	C0004238
+atrial fibrillation	5.18	Atrial Fibrillation Adverse Event	C1963067
+ in gastric acid secretion	5.18	Gastric Acid Secretion Pathway	C2984576
+ in gastric acid secretion	5.18	Gastric acid secretion	C0232552
+seizure 	17.80	Seizures	C0036572
+seizure 	5.18	Seizure Adverse Event	C1959629
+orthostatic hypotension	17.80	Hypotension, Orthostatic	C0020651
+ in bp when combined with amines such as tyramine	17.80	Tyramine	C0041479
+ in bp when combined with amines such as tyramine	6.74	Amines	C0002508
+ in bp when combined with amines such as tyramine	3.59	Combined	C0205195
+dry mouth	14.64	Xerostomia	C0043352
+ in sodium excretion	12.96	Sodium	C0037473
+ in sodium excretion	9.81	Sodium, Dietary	C0037570
+ in sodium excretion	3.68	Body Excretions	C0504085
+ in sodium excretion	3.68	Excretory function	C0221102
+ in sodium excretion	3.50	Sodium Cation	C0597484
+prolongation of qt interval of ecg	16.02	Electrocardiogram	C0013798
+prolongation of qt interval of ecg	3.45	QT interval feature (observable entity)	C0429028
+prolongation of qt interval of ecg	3.45	QT interval:Time:Point in time:Heart:Quantitative:EKG	C0488414
+ in gastric acid secretion	5.18	Gastric Acid Secretion Pathway	C2984576
+ in gastric acid secretion	5.18	Gastric acid secretion	C0232552
+gynecomastia	14.64	Gynecomastia	C0018418
+gynecomastia	5.18	Gynecomastia Adverse Event	C1963120
+anxiety	11.49	Anxiety	C0003467
+anxiety	8.34	Anxiety Disorders	C0003469
+activation of dopamine	19.22	Dopamine	C0013030
+activation of dopamine	3.59	Activation action	C1879547
+activation of dopamine	3.45	Dopamine Measurement	C0201989
+cardiovascular effects	3.68	Cardiovascular system	C0007226
+cardiovascular effects	3.68	Effect	C1280500
+psychomimetic effects	3.68	Effect	C1280500
+t cell activation	5.18	T-Cell Activation	C1155065
+ in muscle mass	5.18	Form of muscle	C0240417
+ in cognitive function	5.18	Cognitive functions	C0392335
+ in weight loss	27.26	Body Weight decreased	C0043096
+ in weight loss	5.18	Weight Loss Adverse Event	C2911645
+myocardial infarction	14.64	Myocardial Infarction	C0027051
+myocardial infarction	5.18	Myocardial infarction:Finding:Point in time:^Patient:Ordinal	C2926063
+palpitations	5.18	Palpitations	C0030252
+palpitations	5.18	Palpitations Adverse Event	C3160712
+ in plasma potassium and arrhythmia	11.49	Cardiac Arrhythmia	C0003811
+ in plasma potassium and arrhythmia	5.18	plasma potassium	C0858155
+gastric and pulmonary bleeding	14.64	Stomach	C0038351
+gastric and pulmonary bleeding	9.99	Hemorrhage	C0019080
+gastric and pulmonary bleeding	6.66	Lung	C0024109
+gastric and pulmonary bleeding	5.18	Gastric (qualifier value)	C1704242
+gastric and pulmonary bleeding	3.50	Pulmonary (qualifier value)	C2709248
+gastric and pulmonary bleeding	3.50	Pulmonary:-:Point in time:^Patient:-	C2707265
+natriuresis	17.80	Natriuresis	C0027477
+glaucoma	11.49	Glaucoma	C0017601
+glaucoma	5.18	Glaucoma (eukaryote)	C0997768
+glaucoma	5.18	Glaucoma Adverse Event	C1962986
+renal dysfunction	9.99	Kidney	C0022646
+renal dysfunction	9.99	physiopathological	C0031847
+renal dysfunction	3.68	Functional disorder	C0277785
+transporters	14.64	Membrane Transport Proteins	C0596902
+ in development of gallstones	17.80	Biliary calculi	C0242216
+ in development of gallstones	14.64	Cholecystolithiasis	C0947622
+ in development of gallstones	11.49	Cholelithiasis	C0008350
+ in development of gallstones	5.18	Biologic Development	C0678723
+ in development of gallstones	5.18	Development	C1527148
+ in development of gallstones	5.18	development aspects	C0243107
+hypertension	11.49	Hypertensive disease	C0020538
+hypertension	5.18	Hypertension Adverse Event	C1963138
+arousal	14.64	Arousal	C0003808
+teratogenicity	5.18	Teratogenesis	C0232910
+t cell inhibition	22.46	T-Lymphocyte	C0039194
+t cell inhibition	13.09	Psychological inhibition	C0021467
+t cell inhibition	3.63	Metabolic Inhibition	C0021469
+t cell inhibition	3.63	Percent inhibition	C1628982
+immunosuppression	17.80	Therapeutic immunosuppression	C0021079
+immunosuppression	5.18	Decreased Immunologic Activity [PE]	C1373218
+immunosuppression	5.18	Natural immunosuppression	C0021080
+ in glycogenolysis and glucagon release	19.27	Glucagon	C0017687
+ in glycogenolysis and glucagon release	17.80	Glycogenolysis	C0596624
+ in glycogenolysis and glucagon release	16.30	Patient Discharge	C0030685
+ in glycogenolysis and glucagon release	3.68	% release (qualifier value)	C0439180
+ in glycogenolysis and glucagon release	3.68	Discharge (release)	C0680255
+ in glycogenolysis and glucagon release	3.68	Release (procedure)	C1963578
+ in glycogenolysis and glucagon release	3.68	Release - action (qualifier value)	C1283071
+ in glycogenolysis and glucagon release	3.68	Released (action)	C0391871
+ in glycogenolysis and glucagon release	3.50	glucagon (rDNA)	C0876232
+positive inotropy	5.18	Positive Inotropy [PE]	C1372805
+potential hearing impairment	19.52	hearing impairment	C1384666
+potential hearing impairment	3.75	Hearing Loss, Partial	C0018772
+potential hearing impairment	3.48	Potential	C3245505
+cerebral and coronary artery vasoconstriction	4.05	Coronary Arterial Vasoconstriction [PE]	C1371464
+anticonvulsant	17.80	Anticonvulsants	C0003286
+parkinsonism	17.80	Parkinsonian Disorders	C0242422
+gi and urinary smooth muscle constriction	9.92	Stenosis	C1261287
+gi and urinary smooth muscle constriction	9.81	Smooth muscle (tissue)	C1267092
+gi and urinary smooth muscle constriction	6.77	Constriction procedure	C0009813
+gi and urinary smooth muscle constriction	6.62	Urinary tract	C0042027
+gi and urinary smooth muscle constriction	3.61	constriction (cell component)	C1760025
+gi and urinary smooth muscle constriction	3.47	urinary	C1524119
+scid	14.64	Severe Combined Immunodeficiency	C0085110
+ in cardiac contractility	16.51	Myocardial Contraction	C0027045
+sleep induction	12.96	Sleep	C0037313
+sleep induction	3.68	Induce (action)	C0205263
+sleep induction	3.68	Induction procedure	C0857127
+ddi potential	19.27	Didanosine	C0012133
+ddi potential	3.68	Potential	C3245505
+ischaemic stroke	5.18	Ischemic stroke	C0948008
+sedation and dysphoria	5.18	Dysphoric mood	C0233477
+sedation and dysphoria	5.18	Sedation	C0600097
+sedation and dysphoria	5.18	Sedation procedure	C0344106
+osteoblast proliferation	5.18	osteoblast proliferation	C2247140
+peripheral vasodilation and skeletal muscle tremor	17.80	Vasodilation	C0042401
+peripheral vasodilation and skeletal muscle tremor	16.37	Tremor, Muscle	C0235082
+peripheral vasodilation and skeletal muscle tremor	16.25	Tremor	C0040822
+peripheral vasodilation and skeletal muscle tremor	13.00	Skeletal muscle structure	C0242692
+peripheral vasodilation and skeletal muscle tremor	3.63	Tremor Adverse Event	C1963252
+peripheral vasodilation and skeletal muscle tremor	3.53	Entire skeletal muscle (organ)	C1280260
+peripheral vasodilation and skeletal muscle tremor	3.48	Skeletal	C0521324
+peripheral vasodilation and skeletal muscle tremor	3.48	Skeletal system	C0037253
+dystonia	17.80	Dystonia	C0013421
+dystonia	14.64	Dystonia Disorders	C0393593
+ in respiratory secretions	4.12	Respiratory secretion	C1532372
+serotonin syndrome	24.11	Malignant Carcinoid Syndrome	C0024586
+serotonin syndrome	14.64	Serotonin Syndrome	C0699828
+electrolyte disturbances	4.12	Electrolyte imbalance	C0342579
+ in noradrenaline release and sympathetic neurotransmission	19.27	Norepinephrine	C0028351
+ in noradrenaline release and sympathetic neurotransmission	16.30	Patient Discharge	C0030685
+ in noradrenaline release and sympathetic neurotransmission	16.30	Synaptic Transmission	C0027793
+ in noradrenaline release and sympathetic neurotransmission	3.68	% release (qualifier value)	C0439180
+ in noradrenaline release and sympathetic neurotransmission	3.68	Discharge (release)	C0680255
+ in noradrenaline release and sympathetic neurotransmission	3.68	Release (procedure)	C1963578
+ in noradrenaline release and sympathetic neurotransmission	3.68	Release - action (qualifier value)	C1283071
+ in noradrenaline release and sympathetic neurotransmission	3.68	Released (action)	C0391871
+ in noradrenaline release and sympathetic neurotransmission	3.50	Norepinephrine measurement	C0202145
+ in gi motility	3.68	Motility	C1510470
+ in gi motility	3.68	Motility result	C0678835
+ in gi motility	3.68	cell motility	C0007608
+smooth muscle contraction	5.18	smooth muscle contraction	C1155937
+enzymes	11.49	enzymology	C0014445
+enzymes	8.34	Enzymes	C0014442
+hypoglycaemia	14.64	Hypoglycemia	C0020615
+analgesia	14.64	Pain management	C0002766
+analgesia	8.34	Analgesia	C3202977
+analgesia	5.18	Absence of pain sensation	C0344307
+analgesia	5.18	Analgesia [PE]	C2825040
+ventricular arrhythmia	5.18	Ventricular Arrhythmia Adverse Event	C1883529
+ventricular arrhythmia	5.18	Ventricular arrhythmia	C0085612
+ in gi motility 	3.68	Motility	C1510470
+ in gi motility 	3.68	Motility result	C0678835
+ in gi motility 	3.68	cell motility	C0007608
+respiratory depression	11.49	Respiratory Depression	C0235063
+hyponatraemia	14.64	Hyponatremia	C0020625
+relaxation of colon and oesophagus	16.07	Colon structure (body structure)	C0009368
+relaxation of colon and oesophagus	14.64	Esophagus	C0014876
+relaxation of colon and oesophagus	9.90	Relaxation	C0035028
+relaxation of colon and oesophagus	5.18	Entire esophagus	C1278919
+relaxation of colon and oesophagus	5.18	Esophago-esophageal	C0545823
+relaxation of colon and oesophagus	3.45	Entire colon	C1281569
+gregation and leukocyte activation	5.18	Immune Cell Activation Process	C1155000
+ in smooth muscle tone	10.06	Muscle Tonus	C0026841
+ in smooth muscle tone	3.75	Observation of tone of skeletal muscle	C0549465
+ in smooth muscle tone	3.48	Smooth	C0205357
+ in spermatogenesis	20.95	Spermatogenesis	C0037864
+ in upper gi transit	3.63	In transit	C1301827
+ in upper gi transit	3.53	Upper gastrointestinal tract series	C0203057

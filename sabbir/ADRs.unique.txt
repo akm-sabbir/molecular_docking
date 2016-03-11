@@ -1,0 +1,202 @@
+anxiolysis	1
+potential cardiac valvulopathy	1
+↑ in prostate carcinoma	1
+↓ in pr interval	1
+cardiac hypertrophy	1
+gastric emptying	1
+gallbladder contraction	1
+↓ in hr	7
+aldosterone secretion	1
+antidepressant-like activities	1
+psychosis (schizophrenia-like)	1
+muscle relaxation	2
+sexual dysfunction	1
+hyperglycaemia	2
+syncope	1
+pupil dilation	1
+potential for stimulation of platelet aggregation	1
+↑ in insulin secretion	1
+acne	1
+possible cardiac effects, especially during embryonic development	1
+hyperthermia	1
+potentially anxiogenic	1
+long qt syndrome	1
+anti-inflammatory activity	1
+↑ in other serotonin-mediated effects	1
+memory impairment and poor concentration	1
+↓ in pituitary hormone secretions	1
+↓ in insulin release	1
+lipolysis	1
+euphoria and dysphoria	1
+cardiac positive ionotropy	1
+drowsiness	2
+insomnia	2
+flatulence	1
+possible ↑ in hr	1
+↓ in gi motility	2
+hallucinations	3
+↓ in cardiac action potential duration	1
+↓ in platelet aggregation and leukocyte activation	1
+potential for arrhythmia	1
+nausea	4
+allergic responses of flare, flush and wheal	1
+abuse liability	1
+dyspepsia	2
+coronary vasodilation	1
+reduced rem sleep	1
+dysphoria	1
+addictive psychostimulation	1
+negative chronotropy and inotropy	1
+sedation	4
+water retention in body	1
+↓ in locomotion	1
+abuse potential	4
+constipation	4
+↓ in bp	9
+bronchodilation	1
+↑ in urinary output	1
+parkinsonian symptoms (tremors)	1
+platelet aggregation	1
+schizophrenia	1
+↓ in cardiac conduction (pr interval)	1
+pulmonary hypertension	1
+nervousness (tremors, agitation)	1
+liver complications	1
+sleep apnoea	1
+oedema	1
+depression	4
+↑ in inflammation	1
+orthostatic hypotension and ↑ in hr	1
+suicidal intent	1
+↓ in plasma renin	1
+anti-mitogenic effects	1
+osteoporosis	1
+↑ in hostility	1
+miosis	1
+androgenicity in females	1
+sleep disturbances	1
+confusion	2
+↑ in breast carcinoma	1
+↓ in allergic responses	1
+neurotoxicity	1
+↑ in locomotor activity	1
+pupil constriction	1
+tremors	1
+↓ in bone mass	1
+vasculitis and arteritis	1
+dizziness	6
+possible thymus atrophy	1
+↓ in body temperature	1
+pancreatic enzyme secretion	1
+paralysis	1
+↓ in locomotor activity	1
+myocardial fibrosis	1
+↓ in bp and reflex	1
+insulin resistance	1
+↓ in food intake	1
+↑ in renin release	1
+impact on various aspects of sexual function	1
+possible shortening of qt interval of ecg	1
+↑ in salivation	1
+cortisol and growth hormone secretion	1
+hypothermia	2
+↓ in smooth muscle tone	1
+bronchoconstriction	4
+atherothrombosis	1
+anterograde amnesia	1
+ataxia	1
+convulsion	1
+blurred vision	2
+headaches	1
+seizures	2
+↓ in co	1
+↑ in body weight	2
+prolonged qrs interval of ecg	1
+potential memory impairments	1
+delirium and disoriented behaviour	1
+slowed cardiac conduction	1
+thrombocytopaenia	1
+apnoea	1
+vascular relaxation	2
+anti-inflammatory activities	1
+tachycardia	3
+↑ in aggression	1
+reflex	1
+↑ in bp	10
+dyskinesia	2
+impotence	1
+emesis	5
+↓ in upper gi transit	1
+↓ in spermatogenesis	1
+muscle wasting	1
+mydriasis	2
+atrial fibrillation	1
+↓ in gastric acid secretion	2
+seizure (when used as a bzd antidote)	1
+orthostatic hypotension	1
+↑ in bp when combined with amines such as tyramine	1
+dry mouth	1
+↑ in sodium excretion	1
+prolongation of qt interval of ecg	1
+↑ in gastric acid secretion	2
+gynecomastia, mastodynia	1
+anxiety	3
+activation of dopamine-mediated behaviour	1
+cardiovascular effects	1
+psychomimetic effects	1
+t cell activation	1
+↑ in muscle mass	1
+↓ in cognitive function	1
+↑ in weight loss	1
+myocardial infarction	1
+palpitations	1
+↓ in plasma potassium and arrhythmia	1
+gastric and pulmonary bleeding	1
+natriuresis	1
+glaucoma	1
+renal dysfunction	1
+transporters	1
+↑ in development of gallstones	1
+hypertension	1
+arousal	1
+teratogenicity	1
+t cell inhibition	1
+immunosuppression	1
+↑ in glycogenolysis and glucagon release	1
+positive inotropy	1
+potential hearing impairment, deafness and gi symptoms	1
+cerebral and coronary artery vasoconstriction	1
+anticonvulsant	1
+parkinsonism	1
+gi and urinary smooth muscle constriction	1
+proconvulsant	1
+scid-like immunodeficiency	1
+↑ in cardiac contractility	3
+sleep induction	1
+ddi potential	1
+ischaemic stroke	1
+↑ in hr	6
+sedation and dysphoria	1
+osteoblast proliferation	1
+peripheral vasodilation and skeletal muscle tremor	1
+dystonia	1
+↑ in acth	1
+↑ in respiratory secretions	1
+serotonin syndrome	1
+electrolyte disturbances	1
+↓ in noradrenaline release and sympathetic neurotransmission	1
+↑ in gi motility	5
+smooth muscle contraction	2
+enzymes	1
+hypoglycaemia	1
+analgesia	3
+ventricular arrhythmia	1
+↑ in gi motility (↓ at high doses)	1
+respiratory depression	1
+hyponatraemia	1
+anti-emetic effects	1
+relaxation of colon and oesophagus	1
+gregation and leukocyte activation	1
+↓ in smooth muscle tone	1
+↓ in spermatogenesis	1
+↓ in upper GI transit	1

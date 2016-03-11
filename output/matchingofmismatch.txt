@@ -1,0 +1,26 @@
+cerebral and coronary artery vasoconstriction||Coronary artery disease||372||6114
+gastric emptying||Impaired gastric emptying||68||6114
+gallbladder contraction||Gallbladder disorder||946||6114
+in respiratory secretions||Wound secretion||140||6114
+in weight loss||Loss of consciousness||176||6114
+coronary vasodilation||Acute coronary syndrome||208||6114
+in gastric acid secretion||Wound secretion||140||6114
+negative chronotropy and inotropy||Paradoxical pressor response||3779||6114
+in upper gi transit||Abdominal pain upper||181||6114
+in other serotonin||Other conjunctivitis||1571||6114
+in bp when combined with amines such as tyramine||Orthostatic dysregulation||4982||6114
+in insulin secretion||Wound secretion||140||6114
+slowed cardiac conduction||Wave slowing||3894||6114
+in food intake||Food allergy||667||6114
+t cell activation||Sickle cell anaemia||496||6114
+transporters||Anterograde amnesia||2357||6114
+arousal||Disturbance in sexual arousal||645||6114
+t cell inhibition||Sickle cell anaemia||496||6114
+gregation and leukocyte activation||Polymorphonuclear leukocytosis||2304||6114
+in locomotion||Stereotypy||4170||6114
+parkinsonian symptoms||Heartburn||602||6114
+osteoblast proliferation||Metaphyseal dysplasia||3252||6117
+smooth muscle contraction||Muscle contractions involuntary||805||6114
+enzymes||Hepatic enzyme increased||812||6114
+ddi potential||Catalepsy||3065||6114
+in cardiac conduction||Conduction disorder||2084||6114
